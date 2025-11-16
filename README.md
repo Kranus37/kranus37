@@ -14,15 +14,23 @@ Minha jornada é focada no **Aprimoramento Contínuo do Código e Expansão do D
 
 ---
 
-## ⚔️ ARSENAL TÉCNICO (TECNOLOGIAS)
+## ⚙️ TECNOLOGIAS E FERRAMENTAS
 
-O controle técnico reside neste arsenal de tecnologias, forjadas para a construção de sistemas robustos e eficientes:
+As tecnologias e ferramentas utilizadas para a construção de sistemas robustos e eficientes:
 
 | Categoria | Tecnologias Dominadas |
 | :--- | :--- |
 | **Linguagens de Programação** | Java, Python |
 | **Arquitetura da Base** | HTML5, CSS3 |
 | **Foco Principal** | Engenharia de Software, Desenvolvimento e Estudo Contínuo |
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,html,css" alt="Ícones das linguagens Java, Python, HTML5 e CSS3" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kranus37&layout=compact&theme=dark&hide_border=true&title_color=E30000&icon_color=E30000&text_color=CCCCCC&bg_color=0D1117" alt="Linguagens mais usadas no GitHub de Kranus37" />
+</div>
 
 ---
 
@@ -45,7 +53,7 @@ Este repositório serve como o arquivo de minhas conquistas. Explore os projetos
 ---
 
 <div align="center">
-  <img src="darth_vader_close.png" alt="Close-up de Darth Vader em silhueta com brilho vermelho" width="300">
+  <img src="lightsaber_ignite.gif" alt="Animação sutil de um sabre de luz vermelho se acendendo" width="400">
   <p><strong>"A Força é forte em mim. Eu sou um com a Força, e a Força é uma comigo."</strong></p>
 </div>
 
