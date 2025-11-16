@@ -2,7 +2,6 @@
   <img src="darth_vader_hall.png" alt="Darth Vader em um corredor escuro com sabre de luz vermelho" width="100%">
   <h1>KRANUS | ENGENHARIA DE SOFTWARE</h1>
   <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kranus37.kranus37&left_color=000000&right_color=E30000&left_text=VISITAS%20AO%20DOMÍNIO" alt="Contador de Visitas" />
   </p>
 </div>
 
