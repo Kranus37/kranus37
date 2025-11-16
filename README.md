@@ -1,7 +1,9 @@
 <div align="center">
   <img src="darth_vader_hall.png" alt="Darth Vader em um corredor escuro com sabre de luz vermelho" width="100%">
   <h1>KRANUS | ENGENHARIA DE SOFTWARE</h1>
-  <p><strong>"O medo atrai os que têm poder. O poder atrai os que têm medo."</strong></p>
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kranus37.kranus37&left_color=000000&right_color=E30000&left_text=VISITAS%20AO%20DOMÍNIO" alt="Contador de Visitas" />
+  </p>
 </div>
 
 ---
@@ -55,6 +57,19 @@ Este repositório serve como o arquivo de minhas conquistas. Explore os projetos
 <div align="center">
   <img src="lightsaber_ignite.gif" alt="Animação sutil de um sabre de luz vermelho se acendendo" width="400">
   <p><strong>"A Força é forte em mim. Eu sou um com a Força, e a Força é uma comigo."</strong></p>
+
+---
+
+## 📜 O CÓDIGO SITH (LEGENDS)
+
+A filosofia que guia a busca pela excelência e poder:
+
+*   **Paz é uma mentira, só existe Paixão.**
+*   **Através da Paixão, ganho Força.**
+*   **Através da Força, ganho Poder.**
+*   **Através do Poder, ganho Vitória.**
+*   **Através da Vitória, minhas correntes são quebradas.**
+*   **A Força me libertará.**
 </div>
 
 <!--
