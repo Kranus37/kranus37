@@ -26,6 +26,14 @@ O poder de um Lorde Sith reside em seu controle sobre a Força. Meu controle res
 
 ---
 
+## 📊 O PODER DO IMPÉRIO (ESTATÍSTICAS)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kranus37&show_icons=true&theme=dark&hide_border=true&title_color=E30000&icon_color=E30000&text_color=CCCCCC&bg_color=0D1117&ring_color=E30000&rank_label=Poder%20Sith&count_private=true" alt="Estatísticas do GitHub de Kranus37" />
+</div>
+
+---
+
 ## 🌌 PROJETOS DE CONQUISTA
 
 Este repositório serve como o meu campo de treinamento e o arquivo de minhas conquistas. Explore os projetos para testemunhar a aplicação da disciplina Sith no desenvolvimento de software.
