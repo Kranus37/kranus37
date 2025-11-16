@@ -45,11 +45,8 @@ As tecnologias e ferramentas utilizadas para a construção de sistemas robustos
 
 ## 🌌 PROJETOS E CONQUISTAS
 
-Este repositório serve como o arquivo de minhas conquistas. Explore os projetos para acompanhar a aplicação da disciplina no desenvolvimento de software.
 
-*   **[Nome do Projeto 1]**: [Breve descrição do projeto e seu objetivo de domínio.]
-*   **[Nome do Projeto 2]**: [Breve descrição do projeto e seu objetivo de domínio.]
-*   **[Nome do Projeto N]**: [Adicione mais projetos conforme o seu império digital se expande.]
+
 
 ---
 
