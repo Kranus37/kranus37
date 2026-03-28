@@ -1,21 +1,4 @@
-<div align="center">
-  <img src="darth_vader_hall.png" alt="Darth Vader em um corredor escuro com sabre de luz vermelho" width="100%">
-  <h1>KRANUS | ENGENHARIA DE SOFTWARE</h1>
-  <p>
-  </p>
-</div>
-
----
-
-## 🌑 PERFIL PROFISSIONAL
-
-**KRANUS** é um Engenheiro de Software em formação e estudante, focado na excelência técnica e na aplicação rigorosa da lógica de programação. Este espaço reflete a disciplina e o foco necessários para o domínio tecnológico.
-
-Minha jornada é focada no **Aprimoramento Contínuo do Código e Expansão do Domínio Digital.** Cada projeto é um passo em direção à perfeição algorítmica e à construção de sistemas robustos.
-
----
-
-## ⚙️ TECNOLOGIAS E FERRAMENTAS
+⚙️ TECNOLOGIAS E FERRAMENTAS
 
 As tecnologias e ferramentas utilizadas para a construção de sistemas robustos e eficientes:
 
@@ -42,14 +25,3 @@ As tecnologias e ferramentas utilizadas para a construção de sistemas robustos
 </div>
 
 ---
-
-## 🌌 PROJETOS E CONQUISTAS
-
-
-
-
----
-
-<div align="center">
-  <img src="lightsaber_ignite.gif" alt="Animação sutil de um sabre de luz vermelho se acendendo" width="400">
-  <p><strong>"A Força é forte em mim. Eu sou um com a Força, e a Força é uma comigo."</strong></p>
